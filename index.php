@@ -65,5 +65,5 @@ echo "prezzo scontato di $movie2->title al 15%:
 € {$movie2->priceDiscount(15)}<br>";
 
 echo "prezzo scontato di $movie3->title al 50%:
-<del> € $movie23->price</del>
+<del> € $movie3->price</del>
 € {$movie3->priceDiscount(50)}<br>";
